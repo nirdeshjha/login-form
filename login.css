@@ -1,0 +1,31 @@
+.picture{
+    display : block;
+    margin : 10px auto;
+    width : 30%;
+}
+.prop0{
+    margin : 0 30px;
+    border : 2px solid #f1f1f1;
+}
+.prop1,.prop2{
+ display : inline-block;
+ margin:0 0 0 20px;
+ padding:10px;
+ width: 90%;
+}
+.prop3{
+    margin:10px 0 10px 20px ;
+    font-family: monospace;
+    font-size: 15px;
+}
+.button{
+    width: 93.5%;
+    padding: 10px;
+    margin:20px 0 0 20px;
+    background-color: green;
+}
+.prop4{
+    padding: 30px;
+    margin:0 30px 0 30px;
+    background-color:#f1f1f1;
+}
